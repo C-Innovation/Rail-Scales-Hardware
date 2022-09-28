@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C11 Old Footprint=CAPAE-G New Footprint=CAPAE-C
+Change Component Comment : Designator=C11 Old Comment=RVT1H221M1010 New Comment=VES101M1ETR-0607
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAPAE-G"; UniqueID = "\LZHUHCIR\TNKDBWJP" ("\LZHUHCIR\TNKDBWJP")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C176675"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Lelon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marker"; Value = "VES101M1ETR-0607"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "25 V"; VariantName = "[No Variations]"
+Added Room: Name=U_RS_Analog
+Added Room: Name=U_RS_MCU

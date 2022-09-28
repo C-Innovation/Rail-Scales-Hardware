@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=AGND Pin=C13-2
+Added Pin To Net: NetName=AGND Pin=C14-2
+Added Pin To Net: NetName=AGND Pin=DA2-1
+Added Pin To Net: NetName=AGND Pin=DA3-1
+Added Room: Name=U_RS_MCU

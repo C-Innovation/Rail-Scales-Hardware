@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=POWER_MOD_-5V_0 Pin=DA4-4
+Added Pin To Net: NetName=POWER_MOD_+5V_0 Pin=DA4-7
+Added Pin To Net: NetName=POWER_MOD_+5V_0 Pin=DA5-1
+Added Pin To Net: NetName=POWER_MOD_-5V_1 Pin=DA7-4
+Added Pin To Net: NetName=POWER_MOD_+5V_1 Pin=DA7-7
+Added Pin To Net: NetName=POWER_MOD_+5V_1 Pin=DA8-1
+Added Pin To Net: NetName=POWER_MOD_-5V_2 Pin=DA10-4
+Added Pin To Net: NetName=POWER_MOD_+5V_2 Pin=DA10-7
+Added Pin To Net: NetName=POWER_MOD_+5V_2 Pin=DA11-1
+Added Pin To Net: NetName=POWER_MOD_-5V_3 Pin=DA14-4
+Added Pin To Net: NetName=POWER_MOD_+5V_3 Pin=DA14-7
+Added Pin To Net: NetName=POWER_MOD_+5V_3 Pin=DA15-1
+Added Pin To Net: NetName=POWER_MOD_+5V_0 Pin=R9-2
+Added Pin To Net: NetName=POWER_MOD_+5V_1 Pin=R12-2
+Added Pin To Net: NetName=POWER_MOD_+5V_2 Pin=R16-2
+Added Pin To Net: NetName=POWER_MOD_+5V_3 Pin=R21-2
+Added Room: Name=U_RS_Analog
+Added Room: Name=U_RS_MCU

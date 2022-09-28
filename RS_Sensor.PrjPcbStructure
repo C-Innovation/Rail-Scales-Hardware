@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=_RS_TopLevel.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=_RS_TopLevel.SchDoc|Designator=U_RS_Analog|SchDesignator=U_RS_Analog|FileName=RS_Analog.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=RS_Analog.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=_RS_TopLevel.SchDoc|Designator=U_RS_MCU|SchDesignator=U_RS_MCU|FileName=RS_MCU.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=RS_MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
