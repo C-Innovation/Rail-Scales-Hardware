@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: F:\GlobalData\Yandex\Документы\Питер\ЖД Весы\Schematic\V1.1\RS_Sensor\RS_Sensor.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_CHASSIS_Keepout|Scope=Board|Minimum=13.78
+RuleKind=Clearance|RuleName=Clearance_CHASSIS|Scope=Board|Minimum=98.43
+RuleKind=Width|RuleName=DiffPair_Width_D2|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName=DiffPair_Width_D1|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance_Poly-Board|Scope=Board|Minimum=19.69
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=15.75
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=Width_Diff|Scope=Board|Minimum=9.84
