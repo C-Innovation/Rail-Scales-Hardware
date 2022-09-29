@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : F:\GlobalData\Yandex\Документы\Питер\ЖД Весы\Schematic\V1.1\RS_Sensor\RS_Sensor.PcbDoc
-Date     : 28.09.2022
-Time     : 22:39:26
+Date     : 29.09.2022
+Time     : 18:34:41
 
 Processing Rule : Clearance Constraint (Gap=0.5mm) (InPolygon),(OnLayer('Keep-Out Layer'))
 Rule Violations :0
@@ -54,4 +54,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

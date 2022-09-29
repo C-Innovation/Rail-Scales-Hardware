@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=AGND Pin=DA2-1
+Removed Pin From Net: NetName=5V_MCU Pin=DA2-2
+Removed Pin From Net: NetName=5V_MCU Pin=DA2-2
+Removed Pin From Net: NetName=AGND Pin=DA3-1
+Removed Pin From Net: NetName=5V_Main Pin=DA3-2
+Removed Pin From Net: NetName=5V_Main Pin=DA3-2
+Change Component Footprint: Designator=DA2 Old Footprint=SOT-223 New Footprint=SOT-23-5
+Change Component Footprint: Designator=DA3 Old Footprint=SOT-223 New Footprint=SOT-23-5
+Change Component Comment : Designator=DA2 Old Comment=AMS1117-5.0 New Comment=LP2981IM5-5.0
+Change Component Comment : Designator=DA3 Old Comment=AMS1117-5.0 New Comment=LP2981IM5-5.0
+Change component parameters: Designator = "DA2" ("DA2"); Footprint = "SOT-223"; UniqueID = "\LZHUHCIR\BSCXBMXC" ("\LZHUHCIR\BSCXBMXC")
+Change component parameters (AddParameter): Name = "Input Voltage"; Value = "6.5 - 7.5 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C3749295"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marker"; Value = "LP2981IM5-5.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DA3" ("DA3"); Footprint = "SOT-223"; UniqueID = "\LZHUHCIR\YFTJWRLA" ("\LZHUHCIR\YFTJWRLA")
+Change component parameters (AddParameter): Name = "Input Voltage"; Value = "6.5 - 7.5 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C3749295"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marker"; Value = "LP2981IM5-5.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_7V Pin=DA2-1
+Added Pin To Net: NetName=AGND Pin=DA2-2
+Added Pin To Net: NetName=5V_MCU Pin=DA2-5
+Added Pin To Net: NetName=VDD_7V Pin=DA3-1
+Added Pin To Net: NetName=AGND Pin=DA3-2
+Added Pin To Net: NetName=5V_Main Pin=DA3-5
+Added Room: Name=U_RS_Analog
+Added Room: Name=U_RS_MCU
